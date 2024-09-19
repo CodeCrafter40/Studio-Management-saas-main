@@ -17,6 +17,19 @@ This SaaS solution is designed to streamline the business operations of photogra
 - **Anniversaries:** Send customized emails for birthdays and anniversaries automatically.
 
 ## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-17.0.2-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.6-brightgreen)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.28-orange)
+![React](https://img.shields.io/badge/React-18.2.0-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML](https://img.shields.io/badge/HTML-5.2-orange)
+![CSS](https://img.shields.io/badge/CSS-3.0-blue)
+![Maven](https://img.shields.io/badge/Maven-3.8.5-red)
+![Docker](https://img.shields.io/badge/Docker-20.10.12-lightblue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
+
+
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Java (Spring Boot)
 - **Database:** MySQL
